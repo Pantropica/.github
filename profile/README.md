@@ -26,12 +26,12 @@
 
 *This project is a collection of multiple resources. *
 
- ***🔗 [narrowcasting.pantropica.org](narrowcasting.pantropica.org)***
+ ***🔗 [narrowcasting.pantropica.org](https://narrowcasting.pantropica.org)***
 | Name | Description | Link |
 | --- | --- | --- |
 | Vite | Project core | [Repo](https://github.com/Pantropica/vite-narrowcasting) |
 
- ***🔗 [recreatex.pantropica.org](recreatex.pantropica.org)***
+ ***🔗 [recreatex.pantropica.org](https://recreatex.pantropica.org)***
 | Name | Description | Link |
 | --- | --- | --- |
 | NodeJS | Project core | [Repo](https://github.com/Pantropica/nodejs-junction) |
