@@ -37,3 +37,14 @@
 | NodeJS | Project core | [Repo](https://github.com/Pantropica/nodejs-junction) |
 
 ------
+
+**nieuwsbries.pantropica.nl**
+
+*This project is hosted at: [nieuwsbrief.pantropica.nl](https://nieuwsbrief.pantropica.nl/)*
+ 
+| Name | Description | Link |
+| --- | --- | --- |
+| WN core | Project core | [Repo](https://github.com/Pantropica/wp-core) |
+| WP theme | Project theme | [Repo](https://github.com/Pantropica/wp-theme) |
+
+------
