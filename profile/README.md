@@ -44,7 +44,7 @@
  
 | Name | Description | Link |
 | --- | --- | --- |
-| WN core | Project core | [Repo](https://github.com/Pantropica/wp-core) |
+| WN core | Project core | [Repo](https://github.com/Pantropica/wn-core) |
 | WP theme | Project theme | [Repo](https://github.com/Pantropica/wp-theme) |
 
 ------
